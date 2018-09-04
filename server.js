@@ -1,6 +1,6 @@
 var express = require('express');
-var cookieParser = require('cookie-parser');
-var util = require('util');
+//var cookieParser = require('cookie-parser');
+//var util = require('util');
 
 var app = express();
 app.use(express.static('views'));
